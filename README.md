@@ -9,6 +9,7 @@ This is an assignment given on Pivot Chart and documentation of the work done.
 ## [Exploratory Data Analysis](#exploratory-data-analysis)
 ## [Data Analysis](#data-analysis)
 ## [Results/Insights](#Results/Insights)
+---
 
 ###Project Overview
 ---
