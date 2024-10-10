@@ -52,7 +52,7 @@ This was used to calculate the Sales Category
 ### Results/Insights
 ---
 From the data shared and the charts created;
-The sum of revenue in the different regions was analysed
+The sum of revenue in the different regions, stores and market was analysed
 
 Profit generation shows that the year 2014 had better sales compared to 2015.
 Total Sales in 2014: 48.46B
