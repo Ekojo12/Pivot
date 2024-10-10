@@ -39,7 +39,7 @@ This process was done using Ms Excel; Removing duplicates and expanding the colu
 ---
 EDA Checklist:
 1. Summary Statistics: Understand basic metrics (sum, max, count).
-2. Visualizations: Use charts (histograms, pie charts, line graphs to visually explore data.
+2. Visualizations: Use charts (bar charts, area graphs, pie charts, line graphs to visually explore data.
 3. Categorical Data: Summarize and visualize categorical variables.
 
 ### Data Analysis
