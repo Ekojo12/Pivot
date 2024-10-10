@@ -9,9 +9,9 @@ This is an assignment given on Pivot Chart and documentation of the work done.
 ## [Exploratory Data Analysis](#exploratory-data-analysis)
 ## [Data Analysis](#data-analysis)
 ## [Results/Insights](#Results/Insights)
----
 
-###Project Overview
+
+### Project Overview
 ---
 This is an assignment given based on Pivot data, where I was tasked to;
 
@@ -38,9 +38,9 @@ This process was done using Ms Excel; Removing duplicates and expanding the colu
 ### Exploratory Data Analysis
 ---
 EDA Checklist:
-Summary Statistics: Understand basic metrics (sum, max, count).
-Visualizations: Use charts (histograms, pie charts, line graphs to visually explore data.
-Categorical Data: Summarize and visualize categorical variables.
+1. Summary Statistics: Understand basic metrics (sum, max, count).
+2. Visualizations: Use charts (histograms, pie charts, line graphs to visually explore data.
+3. Categorical Data: Summarize and visualize categorical variables.
 
 ### Data Analysis
 ---
