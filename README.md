@@ -77,22 +77,23 @@ whereas 2014 had revenue which ran through the entire months of the year.
 7. The total number of stores is 132
 8. There were 9 different models
 
-### Business Decisions
+#### Business Decisions
 ---
 1. Unique Regional Strategies: A region-specific strategy can be adopted. High-performing regions (e.g., North East) made great revenue, while regions (e.g., the North-Central) had low revenue. This can enable all regions to be equally focsed on.
 
 2. Capitalizing on the Day Category: From the charts, we analysed that the Work day had the highest number markets and the Local holiday had the least, this implies the work day will have higher revenue.
 
-### Key Points:
+#### Key Points:
 1. Understanding regional performance and adapting strategies to specific stores can unlock hidden growth potential.
 2. Focusing on high-margin products and understanding market-specific demands can significantly improve store performance.
 3. Understanding the seasons can drive customer engagement and maximize revenue.
 
-### Problem Statement
+#### Problem Statement
 This report contains the analysis of the dataset, It is concerned with the regional sales with respect to revenue generated from specific markets and stores in different regions.
 The Charts shows insight into the relationship between different columns.
 
-
-
+#### Recommendations
+By leveraging data on regions, markets, stores, day category, we can see the result in the charts.
+Understanding the data can lead to higher revenue generation across regions.
 
 
