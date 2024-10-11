@@ -56,18 +56,18 @@ From the data shared and the charts created;
 1. The sum of revenue in the different regions, stores and market was analysed which amounted to 73.03B
 
 2. Profit generation shows that the year 2014 had better sales compared to 2015.
-Total Sales in 2014: 48.46B
-Total Sales in 2015: 28.57B
+- Total Sales in 2014: 48.46B
+- Total Sales in 2015: 28.57B
 The low sales in 2015 was due to the fact that the revenue was only generated from Jan to July,
 whereas 2014 had revenue which ran through the entire months of the year.
 
-4. There were four distinct lines of business;
+4. line of businesses;
    - Service Plan
    - Printer Sales
    - Parts
    - Copier Sale
 
-6. There were also five distinct Day Category;
+6. ;
    - Work day
    - Local holiday
    - Observance
