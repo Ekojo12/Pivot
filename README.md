@@ -62,10 +62,10 @@ The low sales in 2015 was due to the fact that the revenue was only generated fr
 whereas 2014 had revenue which ran through the entire months of the year.
 
 4. There were four distinct lines of business;
-   i. Service Plan
-   ii. Printer Sales
-   iii. Parts
-   iv. Copier Sale
+   - Service Plan
+   - Printer Sales
+   - Parts
+   - Copier Sale
 
 6. There were also four distinct Day Category; WOrk day, Public holiday,Observancr
 7. 
