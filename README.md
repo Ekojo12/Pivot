@@ -67,7 +67,7 @@ whereas 2014 had revenue which ran through the entire months of the year.
    - Parts
    - Copier Sale
 
-6. ;
+6. Category of Days;
    - Work day
    - Local holiday
    - Observance
@@ -89,8 +89,7 @@ whereas 2014 had revenue which ran through the entire months of the year.
 3. Understanding the seasons can drive customer engagement and maximize revenue.
 
 #### Problem Statement
-This report contains the analysis of the dataset, It is concerned with the regional sales with respect to revenue generated from specific markets and stores in different regions.
-The Charts shows insight into the relationship between different columns.
+Revenue generation is a core part of any business. This generation is influenced by a number of factors, which include the regions, markets, stores, etc. There have been issues about revenue generation in the company by region, where certain regions were generating income than others. This analysis provides insight to solve the issue with respect to day category and its effect on the revenue. 
 
 #### Recommendations
 By leveraging data on regions, markets, stores, day category, we can see the result in the charts.
