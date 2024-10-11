@@ -58,7 +58,8 @@ From the data shared and the charts created;
 2. Profit generation shows that the year 2014 had better sales compared to 2015.
 - Total Sales in 2014: 48.46B
 - Total Sales in 2015: 28.57B
-The low sales in 2015 was due to the fact that the revenue was only generated from Jan to July,
+
+The low sales in 2015 was due to the fact that the revenue was only generated from Jan to June,
 whereas 2014 had revenue which ran through the entire months of the year.
 
 4. line of businesses;
