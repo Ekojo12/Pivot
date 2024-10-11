@@ -92,4 +92,7 @@ whereas 2014 had revenue which ran through the entire months of the year.
 This report contains the analysis of the dataset, It is concerned with the regional sales with respect to revenue generated from specific markets and stores in different regions.
 The Charts shows insight into the relationship between different columns.
 
+![ChartAnalysis](https://github.com/user-attachments/assets/a91d4375-f51a-4d33-be4d-37b9b76644ab)
+
+
 
